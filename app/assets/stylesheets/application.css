@@ -13,3 +13,5 @@
  *= require_tree .
  *= require_self
  */
+
+div#user_nav { float: right; font-size: 0.9em; }
